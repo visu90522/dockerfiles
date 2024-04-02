@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=VISHWA \
+    AGE=20 \
+    ADDRESS=123-1
